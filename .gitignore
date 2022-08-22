@@ -1,0 +1,2 @@
+# 忽略xlsl格式的Excel文件
+*.xlsx
